@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Swap,Markets,Vaults,Rewards,Leaderboard,Portfolio",
-  "VITE_CUSTOM_MENUS": "Axiom, https://axiom.trade/; Jupiter, https://jup.ag/; Meteora, https://www.meteora.ag/",
+  "VITE_CUSTOM_MENUS": "AXIOM, https://axiom.trade/; JUPITER, https://jup.ag/; METEORA, https://www.meteora.ag/",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",

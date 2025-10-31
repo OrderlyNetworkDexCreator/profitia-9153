@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Swap,Markets,Portfolio",
-  "VITE_CUSTOM_MENUS": "*Axiom, https://axiom.trade/; *Predict, https://polymarket.com/",
+  "VITE_CUSTOM_MENUS": "/Axiom, https://axiom.trade/; /Predict, https://polymarket.com/",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",

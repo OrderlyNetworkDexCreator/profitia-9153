@@ -6,8 +6,8 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_MAINNET_CHAINS": "1,900900900,43114,56,42161,8453,10,5000,1329,146,2741",
   "VITE_ORDERLY_TESTNET_CHAINS": "421614,97,10143,11124,901901901",
   "VITE_DEFAULT_CHAIN": "900900900",
-  "VITE_PRIVY_APP_ID": "cmh3wxgdk00kzjx0do732h6yv",
-  "VITE_PRIVY_LOGIN_METHODS": "email,passkey,google,twitter",
+  "VITE_PRIVY_APP_ID": "cmhhll2r10093l70dh4wdptiu",
+  "VITE_PRIVY_LOGIN_METHODS": "email,google,twitter",
   "VITE_PRIVY_TERMS_OF_USE": "",
   "VITE_ENABLE_ABSTRACT_WALLET": "true",
   "VITE_DISABLE_EVM_WALLETS": "false",
@@ -33,6 +33,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_KEYWORDS": "Profitia,crypto,dex,defi,DeFi,perpetuals,leverage,profitlayer",
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
-  "VITE_CUSTOM_PNL_POSTER_COUNT": "1",
+  "VITE_CUSTOM_PNL_POSTER_COUNT": "3",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#00ad82\",\"downColor\":\"#e34552\",\"pnlUpColor\":\"#00C896\",\"pnlDownColor\":\"#F7525F\",\"chartBG\":\"#131722\"}"
 };
